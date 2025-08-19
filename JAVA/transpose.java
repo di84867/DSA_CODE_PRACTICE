@@ -31,8 +31,8 @@ public class transpose {
     }
 
     public static void printMatrix(int[][] mat) {
-        for (int[] row : mat) {
-            for (int val : row) {
+        for (int[] row : mat) { // row gets each row in mat
+            for (int val : row) {  // val gets each value in the current row
                 System.out.print(val + "\t");
             }
             System.out.println();
