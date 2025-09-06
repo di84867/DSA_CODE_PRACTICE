@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MinCostEasy {
+public class MinCost {
 
     public static void sortDescending(int[] a) {
         int n = a.length;
