@@ -1,5 +1,11 @@
 /vinikacode
 .gitignore
+# Ignore all .class files
+*.class
+# Ignore all .log files
+*.log
+# Ignore
+*.gitignore
 tempCodeRunnerFile.java
 JAVA/tempCodeRunnerFile.java
 # Ignore tempcodeRunnerFile
